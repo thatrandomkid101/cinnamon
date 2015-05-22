@@ -1,1 +1,3 @@
 hugo
+hugo loves food 
+hugo hate school
